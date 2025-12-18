@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791832531010",
+    "project_id": "push-notif-kayaku",
+    "storage_bucket": "push-notif-kayaku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791832531010:android:b0636c30372dcd4d2c9ddb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_notif_kayaku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO1T64CD4M-cQJ2jgq7jgHUJQHV0j8_WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
