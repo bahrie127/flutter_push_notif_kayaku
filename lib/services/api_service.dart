@@ -6,7 +6,7 @@ import '../models/verify_otp_response.dart';
 
 class ApiService {
   static const String baseUrl =
-      'http://192.168.18.100:8000/api'; // untuk emulator
+      'http://192.168.18.113:8000/api'; // untuk emulator
   // static const String baseUrl = 'http://192.168.1.100:8000/api'; // untuk device fisik
 
   // Simpan auth token

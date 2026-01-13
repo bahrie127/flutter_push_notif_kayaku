@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.flutter_push_notif_kayaku",
+      "sha256_cert_fingerprints": [
+        "57:FB:CA:FC:75:E1:CA:C3:CD:64:4B:95:1E:40:A1:A0:F4:A9:90:E5:A7:D4:45:01:10:36:AC:46:8F:17:42:1C"
+      ]
+    }
+  }
+]

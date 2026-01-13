@@ -481,8 +481,10 @@ class ProductListTile extends StatelessWidget {
           ],
         ),
         onTap: () {
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(content: Text('Product: ${product.name}')),
+          Navigator.pushNamed(
+            context,
+            '/product-detail',
+            arguments: product,
           );
         },
       ),
